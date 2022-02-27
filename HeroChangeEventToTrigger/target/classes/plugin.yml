@@ -1,0 +1,6 @@
+name: ChangeHeroEventToTrigger
+version: '1.0-SNAPSHOT'
+main: com.sebdev.changeheroeventtotrigger.ChangeHeroEventToTrigger
+api-version: 1.18
+depend: [  Superheroes2, SkillsLibrary2 ]
+authors: [ Seboh_ ]
